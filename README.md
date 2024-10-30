@@ -6,7 +6,7 @@ Hi, I'm Kithmini!
   <a><img src="https://readme-typing-svg.herokuapp.com?color=F785BF&lines=Computer+Science+and+AI+Student;IBM+Software+Developer+Intern;&center=true&width=380&height=45&"></a>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1vd3JkOTRqYXQ4MnVhdzM3cjRwM2lqeG9kZWZoMjIxcmtidm11cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="70"></h1>> 
 </p>
-<img align="left" src="https://github.com/kithminijoseph/kithminijoseph/blob/main/studying.jpg" width="250" />
+<img align="left" src="https://github.com/kithminijoseph/kithminijoseph/blob/main/studying.jpg" width="200" />
 <p>
 
 ```
@@ -14,48 +14,47 @@ Hi, I'm Kithmini!
 
 📚 3rd Year Computer Science & AI Student at the University of Bath
 
-📝 Experience in Automation & Integration, Machine Learning and
+📝 Experience in Automation & Integration & Machine Learning
 
-🔭 Working on Deep Learning & Machine Learning
-
-🌱 Learning about Computer Vision and Machine Learning stuff
+🔭 Currently learning about Foundational Models and Climate Modelling
 
 🚩 Interested in Full Stack Machine Learning Application development
 ```
 
 Programming Languages
 <p>
-    <a><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a><img alt="Groovy" src="https://img.shields.io/badge/Groovy%20-%2343853D.svg?logo=groovy&logoColor=white"></a>
-    <a><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-<p>
+    <a><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E6B8B8.svg?logo=css3&logoColor=white"></a>
+    <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F2D1B3.svg?logo=html5&logoColor=white"></a>
+    <a><img alt="Java" src="https://img.shields.io/badge/Java-%23C4A484.svg?logo=java&logoColor=white"></a>
+    <a><img alt="Groovy" src="https://img.shields.io/badge/Groovy%20-%23B4D9C3.svg?logo=groovy&logoColor=white"></a>
+    <a><img alt="PHP" src="https://img.shields.io/badge/PHP-%23D3A1A1.svg?logo=php&logoColor=white"></a>
+    <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%23C5C084.svg?logo=python&logoColor=white"></a>
+    <a><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23A8C3A3.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+
   
 Frameworks and Libraries
 
 <p>
-    <a><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23D00000.svg?logo=Kubernetes&logoColor=white"></a>
-    <a><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23E7B8B8.svg?logo=Kubernetes&logoColor=white"></a>
+    <a><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23A9D5E9.svg?logo=numpy&logoColor=white"></a>
+    <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23C9A8E9.svg?logo=pandas&logoColor=white"></a>
+    <a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23F7C8A8.svg?logo=TensorFlow&logoColor=white"></a>
+    <a><img alt="React" src="https://img.shields.io/badge/React%20-%23A8E9B8.svg?logo=React&logoColor=white"></a>
 </p>
 
 Software and Tools
 
 <p>
-    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23FF0000.svg?logo=jenkins&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-FF6C37?logo=podman&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-FE7A16?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23E6B8B8.svg?logo=jenkins&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%23B4D9B4.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-%23C3D1A1.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23D3BFA1.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F2A6A6.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-%23C4A484.svg?logo=podman&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%23B2C3B2.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23C4D3A8.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
 
