@@ -39,7 +39,6 @@ Frameworks and Libraries
 <p>
     <a><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23E7B8B8.svg?logo=Kubernetes&logoColor=white"></a>
     <a><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23A9D5E9.svg?logo=numpy&logoColor=white"></a>
-    <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23C9A8E9.svg?logo=pandas&logoColor=white"></a>
     <a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23F7C8A8.svg?logo=TensorFlow&logoColor=white"></a>
     <a><img alt="React" src="https://img.shields.io/badge/React%20-%23A8E9B8.svg?logo=React&logoColor=white"></a>
 </p>
