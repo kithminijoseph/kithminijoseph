@@ -18,7 +18,7 @@ Hi, I'm Kithmini!
 
 🔭 Currently learning about Foundational Models and Climate Modelling
 
-🚩 Interested in Full Stack Machine Learning Application development
+🚩 Interested in Full Stack Application development & Machine Learning 
 ```
 
 Programming Languages
